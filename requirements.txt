@@ -1,0 +1,5 @@
+requests==2.31.0
+python-telegram-bot==20.7
+python-dotenv==1.0.0
+redis==5.0.1
+APScheduler==3.10.4  # 本地测试用，生产由 Cron 替代
